@@ -1,4 +1,4 @@
-# ekyc
+# OCR Research
 
 | Resource Name | Link |
 |-|-|
